@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepFryBot", "DeepFryBot.csproj", "{1E23A1AC-2EF4-4340-8AE2-956EDCAD4EE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "..\Program\Program.csproj", "{07F3103E-806E-4E0E-B596-9FF4BC9FBF29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translator", "..\Translator\Translator.csproj", "{8C8C7EFE-1C9B-421E-A6DF-32ECD34DFFF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1E23A1AC-2EF4-4340-8AE2-956EDCAD4EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E23A1AC-2EF4-4340-8AE2-956EDCAD4EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E23A1AC-2EF4-4340-8AE2-956EDCAD4EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F3103E-806E-4E0E-B596-9FF4BC9FBF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F3103E-806E-4E0E-B596-9FF4BC9FBF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F3103E-806E-4E0E-B596-9FF4BC9FBF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F3103E-806E-4E0E-B596-9FF4BC9FBF29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C8C7EFE-1C9B-421E-A6DF-32ECD34DFFF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8C7EFE-1C9B-421E-A6DF-32ECD34DFFF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8C7EFE-1C9B-421E-A6DF-32ECD34DFFF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8C7EFE-1C9B-421E-A6DF-32ECD34DFFF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
